@@ -1,7 +1,7 @@
 
 # 💪 Gym Membership Management System
 
-This Java-based application is a **Gym Membership Management System** developed as part of the **CS4001NI - Programming Y24 Autumn** coursework at Islington College. The system implements object-oriented programming principles and provides both **console-based and GUI-based** solutions to manage gym members.
+This Java-based application is a **Gym Membership Management System** developed as part of the **CS4001NI - Programming Y24 Autumn** coursework. The system implements object-oriented programming principles and provides both **console-based and GUI-based** solutions to manage gym members.
 
 ---
 
